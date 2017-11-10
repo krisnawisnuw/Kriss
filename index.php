@@ -50,7 +50,7 @@ if($url['result'] == 404)
 							'messages' => array(
 								array(
 										'type' => 'text',					
-										'text' => 'Bott chat by : http://line.me/ti/p/~krisnawisnuw'
+										'text' => 'Bott chat by : http://line.me/ti/p/~iamfake'
 									)
 							)
 						);
@@ -67,7 +67,7 @@ if($url['result'] != 100)
 							'messages' => array(
 								array(
 										'type' => 'text',					
-										'text' => 'Maaf '.$profil->displayName.' Server kami sedang sibuk sekarang, contact my owner : http://line.me/ti/p/~krisnawisnuw.'
+										'text' => 'Maaf '.$profil->displayName.' Server kami sedang sibuk sekarang, contact my owner : http://line.me/ti/p/~iamfake'
 									)
 							)
 						);
